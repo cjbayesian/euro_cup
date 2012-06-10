@@ -1,0 +1,17 @@
+"CountryS","Country","GROUP","ELO,Rating","RelStrengthUEFA","RelStrengthEURO2012","QLGamesWon","AvgPointsQLGames","AvgGoalsFor","AvgGoalsAg","Avg GoalDifference"
+RUS,Russia,A,1788,85.4,25.8,70,2.3,1.7,0.4,1.3
+CZE,Czech,A,1765,84.3,20.2,60,1.9,1.5,0.8,0.7
+GRE,Greece,A,1759,84.0,18.7,70,2.4,1.4,0.5,0.9
+POL,Poland,A,1682,80.4,0.0,0,0.0,0.0,0.0,0.0
+GER,Germany,B,2057,98.3,91.2,100,3.0,3.4,0.7,2.7
+NED,Netherlands,B,2042,97.6,87.6,90,2.7,3.7,0.8,2.9
+POR,Portugal,B,1874,89.5,46.7,60,2.0,2.7,1.4,1.3
+DEN,Denmark,B,1800,86.0,28.7,75,2.4,1.9,0.8,1.1
+ESP,Spain,C,2093,100.0,100.0,100,3.0,3.3,0.8,2.5
+CRO,Croatia,C,1865,89.1,44.5,67,2.6,2.1,0.6,1.5
+ITA,Italy,C,1861,88.9,43.6,80,2.6,2.0,0.2,1.8
+IRL,Ireland,C,1775,84.8,22.6,58,2.1,1.7,0.7,1.0
+ENG,England,D,1926,92.0,59.4,63,2.3,2.1,0.6,1.5
+SWE,Sweden,D,1831,87.5,36.3,80,2.4,3.1,1.1,2.0
+FRA,France,D,1811,86.5,31.4,60,2.1,1.5,0.4,1.1
+UKR,Ukraine,D,1740,83.1,14.1,0,0.0,0.0,0.0,0.0
