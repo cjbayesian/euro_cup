@@ -16,7 +16,7 @@ num_teams<-length(teams_e)
 mean_total_score =  2.57  	## from data on recent games at: http://www.eloratings.net/world.html
 					## Teams score goals in matches according to a poison distribution with 
 					## mean equal to their strength ratio (derived from ELO or FIFA rating)
-					## times <mean_total_score>
+					## times <mean_total_score>   
 
 
 teams<-teams_e
@@ -105,7 +105,7 @@ matches_in_group<-6
 groups<-4
 teams_in_group<-4
 num_matches<-matches_in_group*groups
-N=100000
+N=10000
 winner_in_group<-array(dim=c(N,groups))
 group_rank<-array(dim=c(N,groups,teams_in_group))
 team_rank<-array(0,dim=c(N,num_teams))
