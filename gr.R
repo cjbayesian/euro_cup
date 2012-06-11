@@ -12,7 +12,6 @@ teams_e<-teams_e/max(teams_e)
 
 num_teams<-length(teams_e)
 
-
 mean_total_score =  2.57  	## from data on recent games at: http://www.eloratings.net/world.html
 					## Teams score goals in matches according to a poison distribution with 
 					## mean equal to their strength ratio (derived from ELO or FIFA rating)
